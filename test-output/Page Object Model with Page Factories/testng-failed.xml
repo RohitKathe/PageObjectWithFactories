@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Page Object Model with Page Factories]">
+  <listeners>
+    <listener class-name="com.rgk.errorcollectors.TestListenerAdapter"/>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    <listener class-name="com.rgk.listeners.CustomListeners"/>
+  </listeners>
+  <test thread-count="5" name="Sign In Test(failed)">
+    <classes>
+      <class name="com.rgk.testcases.SignInTest">
+        <methods>
+          <include name="signInTest"/>
+        </methods>
+      </class> <!-- com.rgk.testcases.SignInTest -->
+    </classes>
+  </test> <!-- Sign In Test(failed) -->
+  <test thread-count="5" name="Flight Search Test(failed)">
+    <classes>
+      <class name="com.rgk.testcases.FlightSearchTest">
+        <methods>
+          <include name="flightSearchTest"/>
+        </methods>
+      </class> <!-- com.rgk.testcases.FlightSearchTest -->
+    </classes>
+  </test> <!-- Flight Search Test(failed) -->
+</suite> <!-- Failed suite [Page Object Model with Page Factories] -->

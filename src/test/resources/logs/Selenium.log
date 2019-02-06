@@ -1,0 +1,14 @@
+07:22:24,026 DEBUG devpinoyLogger:61 - Chrome launched!!
+07:22:48,103 DEBUG devpinoyLogger:81 - Clicking on element:- [[ChromeDriver: chrome on XP (9b1bb8459c695dba3aa9b1996a2795d8)] -> xpath: //button[@id='header-account-menu']]
+07:22:48,267 DEBUG devpinoyLogger:81 - Clicking on element:- [[ChromeDriver: chrome on XP (9b1bb8459c695dba3aa9b1996a2795d8)] -> xpath: //a[@id='account-signin']]
+07:22:50,250 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+07:22:50,252 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+07:22:50,255 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+07:22:50,256 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+07:22:50,257 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Rohit/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+07:22:55,897 DEBUG devpinoyLogger:61 - Chrome launched!!
+07:23:11,684 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+07:23:11,684 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+07:23:11,685 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+07:23:11,685 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+07:23:11,686 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Rohit/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
